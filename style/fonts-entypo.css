@@ -36,9 +36,9 @@
 
 .entypo.entypo-phone:before{ content:'\1F4DE'; }
 .entypo.entypo-mobile:before{ content:'\1F4F1'; }
-.entypo.entypo-entypo-mouse:before{ content:'\E789'; }
-.entypo.entypo-entypo-address:before{ content:'\E723'; }
-.entypo.entypo-entypo-mail:before{ content:'\2709'; }
+.entypo.entypo-mouse:before{ content:'\E789'; }
+.entypo.entypo-address:before{ content:'\E723'; }
+.entypo.entypo-mail:before{ content:'\2709'; }
 .entypo.entypo-paper-plane:before{ content:'\1F53F'; }
 .entypo.entypo-pencil:before{ content:'\270E'; }
 .entypo.entypo-feather:before{ content:'\2712'; }
@@ -81,8 +81,8 @@
 .entypo.entypo-trophy:before{ content:'\1F3C6'; }
 .entypo.entypo-tag:before{ content:'\E70C'; }
 .entypo.entypo-camera:before{ content:'\1F4F7'; }
-.entypo.entypo-megaphone:before{ content:'1F4E3'; }
-.entypo.entypo-moon:before{ content:'\0045'; }
+.entypo.entypo-megaphone:before{ content:'\1F4E3'; }
+.entypo.entypo-moon:before{ content:'\263D'; }
 .entypo.entypo-palette:before{ content:'\1F3A8'; }
 .entypo.entypo-leaf:before{ content:'\1F342'; }
 .entypo.entypo-note:before{ content:'\266A'; }
@@ -206,10 +206,10 @@
 .entypo.entypo-bookmarks:before{ content:'\1F4D1'; }
 .entypo.entypo-open-book:before{ content:'\1F4D6'; }
 .entypo.entypo-play:before{ content:'\25B6'; }
-.entypo.entypo-paus:before{ content:'\2016'; }
+.entypo.entypo-pause:before{ content:'\2016'; }
 .entypo.entypo-record:before{ content:'\25CF'; }
 .entypo.entypo-stop:before{ content:'\25A0'; }
-.entypo.entypo-ff:before{ content:'\23E9'; }
+.entypo.ntypo-ff:before{ content:'\23E9'; }
 .entypo.entypo-fb:before{ content:'\23EA'; }
 .entypo.entypo-to-start:before{ content:'\23EE'; }
 .entypo.entypo-to-end:before{ content:'\23ED'; }
@@ -233,7 +233,6 @@
 .entypo.entypo-right:before{ content:'\27A1'; }
 .entypo.entypo-circled-left:before{ content:'\E759'; }
 .entypo.entypo-circled-down:before{ content:'\E758'; }
-.entypo.entypo-circled-up:before{ content:'\E75B'; }
 .entypo.entypo-circled-right:before{ content:'\E75A'; }
 .entypo.entypo-triangle-left:before{ content:'\25C2'; }
 .entypo.entypo-triangle-down:before{ content:'\25BE'; }

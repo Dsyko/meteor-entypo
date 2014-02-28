@@ -37,3 +37,76 @@ h1{
 .huge-icons{
 	font-size: 7em;
 }
+.icon-usage{
+	line-height: 40px;
+	font-size: 25px;
+	margin-top: 25px;
+	text-align: center;
+}
+
+.icon-usage i{
+	font-size: 3em;
+}
+.bold{
+	font-weight: bold;
+}
+code {
+	display: inline-block;
+	padding: 5px;
+	font-size: inherit;
+	color: inherit;
+	background-color: #fafafa;
+	border: 0;
+}
+.nt {
+color: #2f6f9f;
+}
+.na {
+color: #4f9fcf;
+}
+.s {
+color: #d44950;
+}
+
+.icon-list-row{
+	padding-top: 35px;
+	padding-bottom: 55px;
+}
+
+.icon-list i{
+	font-size: 3em;
+}
+
+.icon-list{
+	list-style-type: none;
+	text-align:center;
+}
+
+.icon-list li{
+	float: left;
+	text-align: left;
+	min-width: 220px;
+	min-height: 75px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.icon-list li:hover i{
+	font-size: 5em;
+}
+
+.icon-list li code{
+	display: none;
+}
+
+
+.icon-list li:hover code{
+	display: inline-block;
+	font-size: 8px;
+}
+
+.icon-list li br{
+	display: none;
+}
+.icon-list li:hover br{
+	display: block;
+}
