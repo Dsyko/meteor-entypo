@@ -1,0 +1,39 @@
+body {
+  font-family: "museo-slab", Georgia, serif;
+}
+.navbar{
+	text-transform: uppercase;
+	height: 100px;
+	margin-bottom: 0px;
+	border-radius: 0px;
+}
+.navbar-inverse .navbar-nav>.active>a,
+.navbar-inverse .navbar-nav>.active>a:hover,
+.navbar-inverse .navbar-nav>.active>a:focus {
+	background-color: #222222;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+h1{
+	font-weight: 300;
+}
+.logo{
+	position: relative;
+	margin-right: auto;
+	margin-left: auto;
+	margin-bottom: -75px;
+	bottom: 105px;
+	height: 144px;
+	width: 144px;
+	background-image: url("../img/logo.png");
+}
+.green-background {
+	background-color: #66af33;
+	color: #FFFFFF;
+}
+
+.huge-icons{
+	font-size: 7em;
+}
