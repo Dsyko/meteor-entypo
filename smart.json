@@ -1,7 +1,7 @@
 {
     "name": "entypo",
     "description": "Meteorite package for adding entypo icon fonts to a Meteor project.",
-    "homepage": "https://github.com/Dsyko/meteor-entypo",
+    "homepage": "http://dsyko.github.io/meteor-entypo/",
     "author": "David Sykora",
     "version": "0.2.0",
     "git": "https://github.com/Dsyko/meteor-entypo.git"

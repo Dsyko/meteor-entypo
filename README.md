@@ -1,6 +1,7 @@
-**meteor-entypo** is a Meteorite package for adding Entypo font icons to Meteor apps.  
+#**meteor-entypo** is a Meteorite package for adding Entypo font icons to Meteor apps. 
 
-## [See here for an icon map](http://dsyko.github.io/meteor-entypo/)
+### I've created a custom css file for the entypo font icons so that adding icons to your project is as easy as some other popular font-icon packs (fontawesome)
+### [See here for an icon map](http://dsyko.github.io/meteor-entypo/)
 
 ------------------------
 ### Installation
