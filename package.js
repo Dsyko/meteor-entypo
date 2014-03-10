@@ -3,9 +3,9 @@ Package.describe({
 });
 
 Package.on_use(function (api) {
-    api.add_files('fonts/entypo.ttf', "client");
-    api.add_files('fonts/entypo.svg', "client");
-    api.add_files('fonts/entypo.eot', "client");
-    api.add_files('fonts/entypo.woff', "client");
+    api.add_files('fonts/entypo-fontello.ttf', "client");
+    api.add_files('fonts/entypo-fontello.svg', "client");
+    api.add_files('fonts/entypo-fontello.eot', "client");
+    api.add_files('fonts/entypo-fontello.woff', "client");
     api.add_files('fonts-entypo.css', "client");
 });
